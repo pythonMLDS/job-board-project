@@ -28,3 +28,10 @@ Blog :
 contact
 home
 login
+
+- upload the project on github
+- URL : path
+- view   : logic 
+- models : db
+- templates : frontend
+
